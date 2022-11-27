@@ -1,2 +1,2 @@
-# intelliger
-Report card automation software.
+# Intelliger - Report Cards
+haha report cards are funny
